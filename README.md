@@ -1,4 +1,4 @@
-# DevDay II — warsztat OpenCode
+## DevDay II — warsztat OpenCode
 
 **22.10.2026, 14:00–15:00, 42 Warsaw**
 
